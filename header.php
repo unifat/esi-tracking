@@ -24,6 +24,9 @@
         <li class="nav-item">
           <a class="nav-link" href="#">Characters</a>
         </li>
+        <li class="nav-item">
+          <a class="nav-link" href="https://discordapp.com/api/oauth2/authorize?client_id=423562808937021441&permissions=0&redirect_uri=http%3A%2F%2Funifat.space&response_type=code&scope=bot%20identify%20guilds%20webhook.incoming">Login</a>
+        </li>
       </ul>
     </nav>
   </header>
